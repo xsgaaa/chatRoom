@@ -2,4 +2,4 @@
 
 
 
-![原理图](picture\原理图.jpg)
+![原理图](picture\content.jpg)
